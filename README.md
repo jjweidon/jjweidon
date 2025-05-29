@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&fontColor=FFFFFF&section=header&text=👋 Hi there,This is jjweidon&height=150&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&fontColor=FFFFFF&section=header&text=%F0%9F%91%8B%20Hi%20there%2C%20This%20is%20jjweidon&height=150&animation=fadeIn" />
 
 <p align="center">
   🚀🚀🚀🚀🚀 <strong>만들고 싶은 거 다 만드는 개발자</strong> 🚀🚀🚀🚀🚀
