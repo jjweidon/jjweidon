@@ -1,9 +1,12 @@
-<p align="center">👋 Hi there, This is <strong>jjweidon</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&fontColor=FFFFFF&section=header&text=👋 Hi there,This is jjweidon&height=150&animation=fadeIn" />
+
 <p align="center">
   🚀🚀🚀🚀🚀 <strong>만들고 싶은 거 다 만드는 개발자</strong> 🚀🚀🚀🚀🚀
 </p>
 
-
+<a href="https://github.com/jjweidon">
+    <img src="contributions.svg" />
+</a>  
 ---
 
 ## 🧩 Tech Stack
@@ -71,4 +74,3 @@
   </a>
 
 </div>
-
